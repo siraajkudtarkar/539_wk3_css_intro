@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    color: red;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    color: green;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
